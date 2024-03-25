@@ -7,7 +7,7 @@ Frontend Developer | (Angular js)
 
 I’m a front-end developer with a passion for creating engaging user experiences. I specialize in creating responsive designs and animating interfaces with modern JavaScript frameworks. With a keen eye for detail and a commitment to clean, accessible code, I strive to bridge the gap between design and technology to deliver seamless web solutions.
 
-* 🌍  I'm based in Cairo
+* 🌍  I'm based in Mansoura (Flexibility to Allocate)
 * ✉️  You can contact me at [ahmedsamir.as9728@gmail.com](mailto:ahmedsamir.as9728@gmail.com)
 
 ### Skills
