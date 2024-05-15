@@ -1,7 +1,7 @@
 Hi, I'm Ahmed Samir 👋
 ------------------------------
 
-Frontend Developer | (Angular js)
+Frontend Developer | (Angular)
 ------------------------------
 
 
