@@ -1,11 +1,11 @@
 Hi, I'm Ahmed Samir 👋
 ------------------------------
 
-Full Stack (.NEt - Angular)
+Full Stack (.Net - Angular)
 ------------------------------
 
 
-I’m a front-end developer with a passion for creating engaging user experiences. I specialize in creating responsive designs and animating interfaces with modern JavaScript frameworks. With a keen eye for detail and a commitment to clean, accessible code, I strive to bridge the gap between design and technology to deliver seamless web solutions.
+I'm a full-stack developer with a passion for creating comprehensive digital solutions from concept to deployment. I specialize in building scalable applications across the entire technology stack, seamlessly integrating front-end experiences with robust back-end architectures. With expertise spanning databases, APIs, server management, and modern web frameworks, I bridge the gap between user-facing interfaces and complex system logic. My commitment to clean, maintainable code and best practices ensures I deliver end-to-end solutions that are both technically sound and user-centric.
 
 * 🌍  I'm based in Mansoura (Flexibility to Allocate)
 * ✉️  You can contact me at [ahmedsamir.as9728@gmail.com](mailto:ahmedsamir.as9728@gmail.com)
@@ -24,6 +24,9 @@ I’m a front-end developer with a passion for creating engaging user experience
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
 
